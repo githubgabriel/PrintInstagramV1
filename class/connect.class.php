@@ -2,7 +2,7 @@
 
 define("mysql_host", "localhost");
 define("mysql_user", "root");
-define("mysql_pass", "root");
+define("mysql_pass", "root1313");
 define("mysql_database", "gabriel_printinstagramv1");
 
 class conexao {
